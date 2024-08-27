@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lYKznak7MivB5Llw0oTJDkDlWWQ35qQgNocrRtO7BWqksWPB0CRb75IdYh2mqUokyOWDINMCwDvekhqYL/4CnQ==",
+  "dgSpecHash": "7MnMDOB2r8UZHdtnP+NFbugjJb8UKV4Qsz5zl7qVjdcDSw/DoaeH4sbma1jem66OLaUIj74DN7jCyI+58SNL+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lehlohonolo\\Downloads\\CV_Upload_App\\CV_Upload_App\\CV_Upload_App.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lehlohonolo\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512",
     "C:\\Users\\Lehlohonolo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Lehlohonolo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lehlohonolo\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

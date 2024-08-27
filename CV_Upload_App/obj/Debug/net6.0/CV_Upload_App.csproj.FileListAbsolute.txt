@@ -248,3 +248,4 @@ C:\Users\Lehlohonolo\Downloads\CV_Upload_App\CV_Upload_App\bin\Debug\net6.0\tr\M
 C:\Users\Lehlohonolo\Downloads\CV_Upload_App\CV_Upload_App\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Lehlohonolo\Downloads\CV_Upload_App\CV_Upload_App\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Lehlohonolo\Downloads\CV_Upload_App\CV_Upload_App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lehlohonolo\Downloads\CV_Upload_App\CV_Upload_App\bin\Debug\net6.0\ExcelDataReader.dll
