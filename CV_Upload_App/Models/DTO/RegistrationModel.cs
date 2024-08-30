@@ -17,7 +17,6 @@ namespace CV_Upload_App.Models.DTO
         [Required]
         [Compare("Password")]
         public string PasswordConfirm { get; set; }
-        [Required]
         public string ? Role { get; set; }
     }
 }
