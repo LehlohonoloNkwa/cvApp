@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R7EFozahLvorE0/IgHWEtYfuWmcT43xeZOpUPGxarG4=",
+  "Hash": "La3KJO98+xQL3uaQk/x/Vxw4XMPI9eXVrCIDESlQDZg=",
   "Source": "CV_Upload_App",
   "BasePath": "_content/CV_Upload_App",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Lehlohonolo\\Downloads\\CV_Upload_App\\CV_Upload_App\\wwwroot\\Uploads\\Lehlohonolo Nkwane CV.xlsx",
+      "SourceId": "CV_Upload_App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lehlohonolo\\Downloads\\CV_Upload_App\\CV_Upload_App\\wwwroot\\",
+      "BasePath": "_content/CV_Upload_App",
+      "RelativePath": "Uploads/Lehlohonolo Nkwane CV.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Lehlohonolo Nkwane CV.xlsx"
     },
     {
       "Identity": "C:\\Users\\Lehlohonolo\\Downloads\\CV_Upload_App\\CV_Upload_App\\wwwroot\\Uploads\\Marks.xlsx",
